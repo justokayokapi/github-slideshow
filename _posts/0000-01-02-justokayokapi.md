@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+A second slide is a toddler's dream.
 
 Use the left arrow to go back!
